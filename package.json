@@ -1,0 +1,12 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "start":  "cd server npm run start && cd client npm run start"
+  },
+  "author": "",
+  "license": "ISC"
+}
