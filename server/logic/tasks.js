@@ -1,27 +1,27 @@
 let tasks = {
 	1: {
 		title: 'title1',
-		description: 'descr1'
+		description: 'descr1',
 		id: 1
 	},
 	2: {
 		title: 'title2',
-		description: 'descr2'
+		description: 'descr2',
 		id: 2
 	},
 	3: {
 		title: 'title3',
-		description: 'descr3'
+		description: 'descr3',
 		id: 3
 	},
 	4: {
 		title: 'title4',
-		description: 'descr4'
+		description: 'descr4',
 		id: 4
 	},
 	5: {
 		title: 'title5',
-		description: 'descr5'
+		description: 'descr5',
 		id: 5
 	}
 };
